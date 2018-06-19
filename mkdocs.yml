@@ -1,0 +1,10 @@
+site_name: Marshmallow Generator
+repo_url: https://github.com/KristinaPlazonic/scratch3
+pages:
+  - Home: 'index.md'
+  - Introduction: 'a.md'
+  - User Guide:
+      - 'Creating a new Marshmallow project': 'user-guide/b.md'
+  - About:
+      - License: 'about/licence.md'
+theme: readthedocs
