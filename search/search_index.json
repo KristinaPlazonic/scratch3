@@ -56,6 +56,16 @@
             "title": "subsubsection"
         },
         {
+            "location": "/see/",
+            "text": "see if works\n\n\nI wish it does",
+            "title": "see if works"
+        },
+        {
+            "location": "/see/#see-if-works",
+            "text": "I wish it does",
+            "title": "see if works"
+        },
+        {
             "location": "/about/licence/",
             "text": "jfkdlsa;jfkdls;ajkfdls;ajkfldsa;",
             "title": "License"
