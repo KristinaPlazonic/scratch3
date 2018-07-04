@@ -1,10 +1,15 @@
 site_name: Marshmallow Generator
+site_url: https://KristinaPlazonic.github.io/scratch3
 repo_url: https://github.com/KristinaPlazonic/scratch3
 pages:
   - Home: 'index.md'
   - Introduction: 'a.md'
   - User Guide:
       - 'Creating a new Marshmallow project': 'user-guide/b.md'
+      - 'new section': 'user-guide/newb.md'
+      - 'new new section': 'user-guide/newones.md'
+      - 'see if works': see.md
   - About:
       - License: 'about/licence.md'
-theme: readthedocs
+theme: 
+  name: 'rtd-dropdown'
