@@ -16,6 +16,46 @@
             "title": "Creating a new Marshmallow project"
         },
         {
+            "location": "/user-guide/newb/",
+            "text": "fjkdsla;\n\n\nkdlfj\n\n\nkdj\n\n\njffjfjjf\n\n\n\n\nAll done\n\n\nnow.",
+            "title": "new section"
+        },
+        {
+            "location": "/user-guide/newb/#all-done",
+            "text": "now.",
+            "title": "All done"
+        },
+        {
+            "location": "/user-guide/newones/",
+            "text": "section1\n\n\nsubsection 1\n\n\nSome text\n\n\nsection2\n\n\nsubsection2\n\n\nsubsubsection\n\n\nSome text",
+            "title": "new new section"
+        },
+        {
+            "location": "/user-guide/newones/#section1",
+            "text": "",
+            "title": "section1"
+        },
+        {
+            "location": "/user-guide/newones/#subsection-1",
+            "text": "Some text",
+            "title": "subsection 1"
+        },
+        {
+            "location": "/user-guide/newones/#section2",
+            "text": "",
+            "title": "section2"
+        },
+        {
+            "location": "/user-guide/newones/#subsection2",
+            "text": "",
+            "title": "subsection2"
+        },
+        {
+            "location": "/user-guide/newones/#subsubsection",
+            "text": "Some text",
+            "title": "subsubsection"
+        },
+        {
             "location": "/about/licence/",
             "text": "jfkdlsa;jfkdls;ajkfdls;ajkfldsa;",
             "title": "License"

@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>/</loc>
-     <lastmod>2018-06-18</lastmod>
+     <loc>https://KristinaPlazonic.github.io/scratch3/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/a/</loc>
-     <lastmod>2018-06-18</lastmod>
+     <loc>https://KristinaPlazonic.github.io/scratch3/a/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/user-guide/b/</loc>
-     <lastmod>2018-06-18</lastmod>
+     <loc>https://KristinaPlazonic.github.io/scratch3/user-guide/b/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/about/licence/</loc>
-     <lastmod>2018-06-18</lastmod>
+     <loc>https://KristinaPlazonic.github.io/scratch3/user-guide/newb/</loc>
+     <lastmod>2018-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://KristinaPlazonic.github.io/scratch3/user-guide/newones/</loc>
+     <lastmod>2018-07-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://KristinaPlazonic.github.io/scratch3/about/licence/</loc>
+     <lastmod>2018-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
